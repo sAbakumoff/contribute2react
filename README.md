@@ -1121,3 +1121,4 @@ A good way to learn React is building something with it. But the best way is to 
 * [react-bootstrap](https://github.com/Lucifier129/react-bootstrap/blob/master/CONTRIBUTING.md) Bootstrap 3 components built with React
 * [learning.mozilla.org](https://github.com/Pomax/teach.webmaker.org/blob/develop/CONTRIBUTING.md) This repo is for tracking initiatives of the Mozilla Learning Networks team.
 * [keystone](https://github.com/trentmillar/keystone/blob/master/CONTRIBUTING.md) node.js cms and web app framework
+* [Responsive React 'The Movie Database' (TMDb) App ★439](https://github.com/SKempin/reactjs-tmdb-app) TMDb Movie Search is a responsive React app that utilises Twitter's typeahead.js and Bloodhound suggestion engine, loading data via The Movie Database (TMDb) API.
